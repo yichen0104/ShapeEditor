@@ -2,6 +2,10 @@
 
 A basic SVG shape editor written in JavaScript and React.js. It supports shape drawing, border and fill color adjustment, border width adjustment. All of these actions are also undoable and redoable.
 
+## Operation
+After the installation, the application will be running at [http://localhost:3000](http://localhost:3000). You can choose a shape and its background & border color and border width. Dragging the mouse pointer in the workspace, the relevant shape will be plotted.  
+In case you want to revert/redo the last step, you can click the "Redo" and "Undo" buttons in the control area.
+
 ## Installation
 
 Before running for the first time, please run `npm install`.
